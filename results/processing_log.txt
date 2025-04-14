@@ -1,0 +1,333 @@
+CUDA Batch Image Processing Log
+================================
+Device: NVIDIA A100-SXM4-40GB
+Compute Capability: 8.0
+Total Global Memory: 40339 MB
+================================
+
+Found 160 image files to process
+Processing: test001_noise_1326x1962.png
+  Completed in 83 ms
+Processing: test000_circles_1296x1785.png
+  Completed in 6 ms
+Processing: test005_circles_1439x1128.png
+  Completed in 6 ms
+Processing: test000_pattern_1296x1785.png
+  Completed in 6 ms
+Processing: test008_gradient_1697x1405.png
+  Completed in 6 ms
+Processing: test009_pattern_1769x1089.png
+  Completed in 6 ms
+Processing: test006_noise_1638x605.png
+  Completed in 6 ms
+Processing: test008_pattern_1136x1590.png
+  Completed in 6 ms
+Processing: test000_pattern_1741x705.png
+  Completed in 6 ms
+Processing: test008_circles_1136x1590.png
+  Completed in 6 ms
+Processing: test007_circles_1585x1493.png
+  Completed in 5 ms
+Processing: test003_pattern_1752x921.png
+  Completed in 6 ms
+Processing: test006_gradient_1070x578.png
+  Completed in 6 ms
+Processing: test001_gradient_1326x1962.png
+  Completed in 6 ms
+Processing: test005_circles_1109x994.png
+  Completed in 5 ms
+Processing: test007_noise_1585x1493.png
+  Completed in 5 ms
+Processing: test005_pattern_544x672.png
+  Completed in 6 ms
+Processing: test000_pattern_1137x1369.png
+  Completed in 6 ms
+Processing: test009_noise_1048x1725.png
+  Completed in 5 ms
+Processing: test007_noise_965x1136.png
+  Completed in 9 ms
+Processing: test006_gradient_1726x602.png
+  Completed in 6 ms
+Processing: test002_circles_1036x826.png
+  Completed in 6 ms
+Processing: test002_noise_875x1111.png
+  Completed in 6 ms
+Processing: test002_gradient_1036x826.png
+  Completed in 6 ms
+Processing: test004_pattern_660x1677.png
+  Completed in 5 ms
+Processing: test001_circles_1041x1705.png
+  Completed in 5 ms
+Processing: test006_circles_1638x605.png
+  Completed in 5 ms
+Processing: test008_noise_1214x2025.png
+  Completed in 5 ms
+Processing: test009_noise_998x740.png
+  Completed in 6 ms
+Processing: test000_gradient_1741x705.png
+  Completed in 8 ms
+Processing: test003_circles_1140x1137.png
+  Completed in 10 ms
+Processing: test000_noise_1296x1785.png
+  Completed in 5 ms
+Processing: test002_gradient_1618x1760.png
+  Completed in 7 ms
+Processing: test007_pattern_961x1208.png
+  Completed in 9 ms
+Processing: test003_noise_1140x1137.png
+  Completed in 5 ms
+Processing: test006_noise_1726x602.png
+  Completed in 5 ms
+Processing: test003_circles_1752x921.png
+  Completed in 8 ms
+Processing: test003_gradient_850x1714.png
+  Completed in 5 ms
+Processing: test005_noise_1439x1128.png
+  Completed in 7 ms
+Processing: test001_pattern_1638x922.png
+  Completed in 7 ms
+Processing: test008_circles_1697x1405.png
+  Completed in 8 ms
+Processing: test008_pattern_1249x1654.png
+  Completed in 8 ms
+Processing: test004_noise_1817x841.png
+  Completed in 6 ms
+Processing: test007_gradient_965x1136.png
+  Completed in 13 ms
+Processing: test001_gradient_1047x1328.png
+  Completed in 6 ms
+Processing: test005_pattern_1439x1128.png
+  Completed in 7 ms
+Processing: test007_noise_961x1208.png
+  Completed in 10 ms
+Processing: test000_noise_1973x723.png
+  Completed in 5 ms
+Processing: test008_gradient_1214x2025.png
+  Completed in 5 ms
+Processing: test002_pattern_761x1869.png
+  Completed in 5 ms
+Processing: test003_gradient_1017x1616.png
+  Completed in 6 ms
+Processing: test001_circles_1326x1962.png
+  Completed in 7 ms
+Processing: test009_circles_1048x1725.png
+  Completed in 10 ms
+Processing: test009_gradient_998x740.png
+  Completed in 8 ms
+Processing: test002_circles_761x1869.png
+  Completed in 5 ms
+Processing: test000_circles_1137x1369.png
+  Completed in 7 ms
+Processing: test009_noise_1341x1757.png
+  Completed in 6 ms
+Processing: test003_circles_850x1714.png
+  Completed in 5 ms
+Processing: test003_gradient_1140x1137.png
+  Completed in 5 ms
+Processing: test004_noise_1776x1810.png
+  Completed in 5 ms
+Processing: test007_pattern_1585x1493.png
+  Completed in 6 ms
+Processing: test008_circles_1214x2025.png
+  Completed in 5 ms
+Processing: test008_noise_1249x1654.png
+  Completed in 5 ms
+Processing: test004_gradient_660x1677.png
+  Completed in 5 ms
+Processing: test003_circles_1017x1616.png
+  Completed in 5 ms
+Processing: test006_pattern_1726x602.png
+  Completed in 5 ms
+Processing: test007_gradient_961x1208.png
+  Completed in 5 ms
+Processing: test009_circles_1341x1757.png
+  Completed in 5 ms
+Processing: test004_noise_1220x875.png
+  Completed in 5 ms
+Processing: test005_gradient_554x1862.png
+  Completed in 5 ms
+Processing: test009_noise_1769x1089.png
+  Completed in 5 ms
+Processing: test005_noise_554x1862.png
+  Completed in 5 ms
+Processing: test006_pattern_695x2026.png
+  Completed in 5 ms
+Processing: test001_noise_1041x1705.png
+  Completed in 5 ms
+Processing: test007_circles_961x1208.png
+  Completed in 8 ms
+Processing: test008_noise_1697x1405.png
+  Completed in 6 ms
+Processing: test007_pattern_965x1136.png
+  Completed in 11 ms
+Processing: test009_pattern_1048x1725.png
+  Completed in 6 ms
+Processing: test003_noise_850x1714.png
+  Completed in 9 ms
+Processing: test002_pattern_1618x1760.png
+  Completed in 8 ms
+Processing: test005_pattern_1109x994.png
+  Completed in 8 ms
+Processing: test008_circles_1249x1654.png
+  Completed in 7 ms
+Processing: test006_pattern_1638x605.png
+  Completed in 7 ms
+Processing: test007_gradient_763x1529.png
+  Completed in 14 ms
+Processing: test004_noise_660x1677.png
+  Completed in 13 ms
+Processing: test000_circles_1973x723.png
+  Completed in 8 ms
+Processing: test006_gradient_695x2026.png
+  Completed in 7 ms
+Processing: test009_gradient_1341x1757.png
+  Completed in 15 ms
+Processing: test006_noise_1070x578.png
+  Completed in 5 ms
+Processing: test000_gradient_1296x1785.png
+  Completed in 10 ms
+Processing: test006_pattern_1070x578.png
+  Completed in 10 ms
+Processing: test005_circles_544x672.png
+  Completed in 5 ms
+Processing: test009_pattern_1341x1757.png
+  Completed in 8 ms
+Processing: test005_pattern_554x1862.png
+  Completed in 12 ms
+Processing: test000_noise_1137x1369.png
+  Completed in 8 ms
+Processing: test000_gradient_1137x1369.png
+  Completed in 5 ms
+Processing: test003_pattern_850x1714.png
+  Completed in 5 ms
+Processing: test001_pattern_1041x1705.png
+  Completed in 8 ms
+Processing: test004_pattern_1817x841.png
+  Completed in 7 ms
+Processing: test007_circles_763x1529.png
+  Completed in 5 ms
+Processing: test002_circles_1618x1760.png
+  Completed in 5 ms
+Processing: test000_pattern_1973x723.png
+  Completed in 5 ms
+Processing: test007_noise_763x1529.png
+  Completed in 5 ms
+Processing: test008_gradient_1136x1590.png
+  Completed in 5 ms
+Processing: test005_noise_544x672.png
+  Completed in 5 ms
+Processing: test004_gradient_1817x841.png
+  Completed in 7 ms
+Processing: test005_gradient_1439x1128.png
+  Completed in 5 ms
+Processing: test002_noise_761x1869.png
+  Completed in 5 ms
+Processing: test003_noise_1752x921.png
+  Completed in 7 ms
+Processing: test009_circles_1769x1089.png
+  Completed in 10 ms
+Processing: test009_pattern_998x740.png
+  Completed in 5 ms
+Processing: test003_pattern_1017x1616.png
+  Completed in 5 ms
+Processing: test005_circles_554x1862.png
+  Completed in 5 ms
+Processing: test005_gradient_1109x994.png
+  Completed in 9 ms
+Processing: test005_gradient_544x672.png
+  Completed in 5 ms
+Processing: test002_gradient_761x1869.png
+  Completed in 5 ms
+Processing: test003_noise_1017x1616.png
+  Completed in 5 ms
+Processing: test003_gradient_1752x921.png
+  Completed in 5 ms
+Processing: test004_gradient_1220x875.png
+  Completed in 5 ms
+Processing: test005_noise_1109x994.png
+  Completed in 7 ms
+Processing: test001_pattern_1047x1328.png
+  Completed in 8 ms
+Processing: test000_noise_1741x705.png
+  Completed in 5 ms
+Processing: test004_circles_1220x875.png
+  Completed in 5 ms
+Processing: test008_pattern_1697x1405.png
+  Completed in 5 ms
+Processing: test009_circles_998x740.png
+  Completed in 5 ms
+Processing: test002_circles_875x1111.png
+  Completed in 5 ms
+Processing: test001_noise_1638x922.png
+  Completed in 5 ms
+Processing: test006_noise_695x2026.png
+  Completed in 5 ms
+Processing: test006_circles_1726x602.png
+  Completed in 5 ms
+Processing: test008_gradient_1249x1654.png
+  Completed in 8 ms
+Processing: test001_pattern_1326x1962.png
+  Completed in 9 ms
+Processing: test007_circles_965x1136.png
+  Completed in 13 ms
+Processing: test004_pattern_1220x875.png
+  Completed in 8 ms
+Processing: test008_pattern_1214x2025.png
+  Completed in 5 ms
+Processing: test006_circles_1070x578.png
+  Completed in 11 ms
+Processing: test007_gradient_1585x1493.png
+  Completed in 11 ms
+Processing: test002_pattern_1036x826.png
+  Completed in 5 ms
+Processing: test004_circles_660x1677.png
+  Completed in 5 ms
+Processing: test004_circles_1817x841.png
+  Completed in 7 ms
+Processing: test002_noise_1036x826.png
+  Completed in 5 ms
+Processing: test008_noise_1136x1590.png
+  Completed in 6 ms
+Processing: test003_pattern_1140x1137.png
+  Completed in 5 ms
+Processing: test001_circles_1638x922.png
+  Completed in 7 ms
+Processing: test002_noise_1618x1760.png
+  Completed in 7 ms
+Processing: test004_pattern_1776x1810.png
+  Completed in 5 ms
+Processing: test001_gradient_1638x922.png
+  Completed in 5 ms
+Processing: test002_gradient_875x1111.png
+  Completed in 7 ms
+Processing: test002_pattern_875x1111.png
+  Completed in 5 ms
+Processing: test000_circles_1741x705.png
+  Completed in 5 ms
+Processing: test009_gradient_1048x1725.png
+  Completed in 9 ms
+Processing: test006_gradient_1638x605.png
+  Completed in 5 ms
+Processing: test001_gradient_1041x1705.png
+  Completed in 5 ms
+Processing: test001_circles_1047x1328.png
+  Completed in 7 ms
+Processing: test001_noise_1047x1328.png
+  Completed in 8 ms
+Processing: test007_pattern_763x1529.png
+  Completed in 7 ms
+Processing: test000_gradient_1973x723.png
+  Completed in 5 ms
+Processing: test009_gradient_1769x1089.png
+  Completed in 5 ms
+Processing: test006_circles_695x2026.png
+  Completed in 5 ms
+Processing: test004_gradient_1776x1810.png
+  Completed in 8 ms
+Processing: test004_circles_1776x1810.png
+  Completed in 5 ms
+
+================================
+Total processing time: 1226 ms
+Average time per image: 7 ms
+Successfully processed 160 of 160 images
